@@ -1,0 +1,30 @@
+How many rows are present in the zepto table?
+Display a sample of the data from the zepto table.
+How many unique product categories exist in the dataset?
+What are the different categories of products available?
+What is the maximum and minimum MRP of products in the dataset?
+What is the average discount percentage across all products?
+How many products are out of stock?
+Which products have the highest discount percentage?
+Which products have the lowest discount percentage?
+Find the top 10 products with the highest discounted selling price.
+Find the top 10 products with the lowest discounted selling price.
+Which product categories have the most items available in stock?
+What is the total available quantity of products in each category?
+Which product has the maximum available quantity?
+Which product has the minimum available quantity?
+What is the average weight of products across categories?
+Which category has the heaviest product?
+Which category has the lightest product?
+Find the products where the discounted selling price is greater than the MRP (data error check).
+How many products have no discount (discountPercent = 0)?
+What is the category-wise average discount percentage?
+Find the distribution of products based on their weight range (e.g., <250g, 250-500g, 500-1000g, >1000g).
+How many products are priced above ₹500?
+How many products are priced below ₹100?
+Which category contributes the highest revenue potential (MRP × availableQuantity)?
+Which category contributes the lowest revenue potential?
+What is the ratio of in-stock to out-of-stock products?
+List the top 5 categories with the highest average selling price after discount.
+List the top 5 categories with the lowest average selling price after discount.
+What is the total revenue loss due to discounts (sum of (MRP - discountedSellingPrice) × quantity)?
